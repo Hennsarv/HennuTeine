@@ -12,7 +12,7 @@ namespace HennuTeine
         {
             Console.WriteLine("Tere");
 
-            int i = 77;
+            int i = 88;
             Console.WriteLine(i * i  );
 
             Console.ReadKey();

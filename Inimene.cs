@@ -8,6 +8,6 @@ namespace HennuTeine
 {
     internal class Inimene
     {
-        public string Nimi { get; set; }
+        public string Nimi { get; set; } // kommentaar
     }
 }
